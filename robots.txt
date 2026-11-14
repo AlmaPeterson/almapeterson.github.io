@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://almapeterson.github.io/sitemap.xml
 Sitemap: https://almapeterson.github.io/build-that-wall/sitemap.xml
